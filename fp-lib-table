@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name pcbs)(type KiCad)(uri /home/bankst/personal/ludeled/pcbs)(options "")(descr ""))
+  (lib (name Espressif)(type KiCad)(uri ${KIPRJMOD}/kicad_deps/espressif/footprints/Espressif.pretty)(options "")(descr ""))
+)
