@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "ludeled-rescue")(type "Legacy")(uri "${KIPRJMOD}/ludeled-rescue.lib")(options "")(descr ""))
+)
